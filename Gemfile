@@ -39,8 +39,9 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-# Shiho: Adding rails_12factor for Heroku
+# Shiho: Configuration for Heroku
 gem 'rails_12factor', group: :production
+gem 'unicorn'
 
 # Shiho: Adding bootstrap
 gem 'autoprefixer-rails'
