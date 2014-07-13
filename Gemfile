@@ -49,3 +49,6 @@ gem 'bootstrap-sass'
 
 # Shiho: Adding fullcalendar-rails
 gem 'fullcalendar-rails'
+
+# Shiho: Adding authentication
+gem 'devise'
